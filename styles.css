@@ -2,3 +2,12 @@ body {
     background-image: url('certtemplate.png');
     background-size: auto
 }
+
+#nameElement {
+    
+    position: absolute; 
+    left: 0;
+    right: 0;
+    margin-inline: auto;
+    width: fit-content;
+}
