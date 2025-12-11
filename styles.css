@@ -5,15 +5,13 @@
 
 body {
     background-image: url('certtemplate.png');
-    background-size: auto
+    background-size: 2000px 1414px
 }
 
 #nameElement {
-    
     position: absolute; 
     left: 0;
     right: 0;
     margin-inline: auto;
-    width: fit-content;
-    font-family: exmouth;
+    width: fit-content
 }
